@@ -1,5 +1,5 @@
 # Hola soy Alonso diaz ruben Lautaro
-## Desarrollador FullStak
+## Desarrollador full stack
 
 <!--
 **lautaro-developer/lautaro-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
