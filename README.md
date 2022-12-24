@@ -37,4 +37,4 @@ Comenze estudiando el desarrollo web a mitad de 2020 cuando estaba la pandemia, 
 ![cssLog](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=Node.js)
 ![cssLog](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=Linux%20Mint)
 
-# MUCHACHOS HAORA NOS VOLVIMOS A ILUCIONAR 🇦🇷
+# MUCHACHOS AHORA NOS VOLVIMOS A ILUCIONAR 🇦🇷
