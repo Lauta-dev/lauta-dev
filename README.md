@@ -30,11 +30,9 @@ Comenze estudiando el desarrollo web a mitad de 2020 cuando estaba la pandemia, 
 
 ### Lenguajes
 
-![htmlLog](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
-![cssLog](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3)
-![htmlLog](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javaScript)
-![cssLog](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=React)
-![cssLog](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=Node.js)
-![cssLog](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=Linux%20Mint)
+![htmlLogo](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
+![cssLogo](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3)
+![jsLogo](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javaScript)
+![reactLogo](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=React)
 
 # MUCHACHOS AHORA NOS VOLVIMOS A ILUCIONAR 🇦🇷
