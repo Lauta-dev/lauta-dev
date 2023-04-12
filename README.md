@@ -1,6 +1,6 @@
 <div align="center">
-	<h1>Alonso diaz ruben Lautaro</h1>
-	<h2>Desarrollador web Backend y me gusta linux</h2>
+	<p>Alonso diaz ruben Lautaro</p>
+	<p>Desarrollador web Backend y me gusta linux</p>
 </div>
 
 <h2>Utilidades y lenguajes</h2>
