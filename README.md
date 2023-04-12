@@ -1,4 +1,13 @@
-<div align="center">
+<style>
+	.green {
+	    color:       green;
+	    font-weight: 700;
+	    font-size:   30px;
+	    align:       center;
+		}
+</style>
+
+<div class="green">
 	<p>Alonso diaz ruben Lautaro</p>
 	<p>Desarrollador web Backend y me gusta linux</p>
 </div>
