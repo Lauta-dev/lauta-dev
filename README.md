@@ -1,7 +1,8 @@
 <div align="center">
 	<h1>Alonso Diaz Ruben Lautaro</h1>
+        Dev web Backend/Fontend
 </div>
-<p>Dev web Backend/Fontend</p>
+<p></p>
 <p>Me gusta Linux</p>
 
 <br/>
