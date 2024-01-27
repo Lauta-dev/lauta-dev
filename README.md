@@ -5,12 +5,12 @@
 <br/>
 
 <h2>Utilidades y lenguajes</h2>
+
 <img
 	alt=""
 	src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javaScript&labelColor=000"
 	style="border-radius: 4px"
-/>
-<img
+/> <img
 	alt=""
 	src="https://img.shields.io/badge/CSS-fff?style=for-the-badge&logo=CSS3&labelColor=000&logoColor=0074FF"
 	style="border-radius: 4px"
