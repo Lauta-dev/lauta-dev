@@ -9,7 +9,7 @@ Soy **Lautaro** un desarrollador web **Front-end** y **Back-end**
 
 <img
 	alt=""
-	src="https://img.shields.io/badge/HTML-fdfdfd?style=for-the-badge&logo=HTML5&labelColor=000"
+	src="https://img.shields.io/badge/HTML-DBDBDB?style=for-the-badge&logo=HTML5&labelColor=000"
 	style="border-radius: 4px"
 />
 <img
