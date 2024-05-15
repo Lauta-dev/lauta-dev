@@ -1,6 +1,4 @@
-# Buenas!
-
-Soy **Lautaro** un desarrollador web **Front-end** y **Back-end**
+# Soy **Lautaro**, desarrollador web **Front-end** y **Back-end**
 
 
 ### Lenguajes
