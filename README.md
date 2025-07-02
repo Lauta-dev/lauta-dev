@@ -53,3 +53,21 @@ Página para acortar las URLs/link muy largos, este cuenta con un servicio, una 
 
 **Tecnologías usadas**
 - HTML, CSS, JS, NodeJS, Base de datos (SQLite)
+
+---
+
+3. [**Website Screenshot Capture**](https://github.com/Lauta-dev/website-screenshot-capture-action)
+
+Actions para sacar captura de pantalla a páginas webs
+
+**Tecnologías usadas**
+- TypeScript, Docker, GitHub Actions
+
+---
+
+4. [**HTTP Client TUI**](https://github.com/Lauta-dev/go-http_client-tui)
+
+Cliente HTTP para terminal escrita en GOlang, también hace uso de GitHub Actions para generar binarios 
+
+**Tecnologías usadas**
+- GOlang, GitHub Actions
