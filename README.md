@@ -1,5 +1,5 @@
-<h1 style="text-align:center;">Alonso Diaz ruben Lautaro</h1>
-<p style="text-align:center; font-size: 14px">Argentina/Tucumán/San Miguel de Tucumán •
+<h1 align="center">Alonso Diaz ruben Lautaro</h1>
+<p align="center" style="font-size: 14px">Argentina/Tucumán/San Miguel de Tucumán •
 <a href="mailto:alonsodiazrubenlautaro1431@gmail.com">alonsodiazrubenlautaro1431@gmail.com</a> •
 <a href="https://linkedin.com/in/ruben-lautaro-alonso-diaz">LinkedIn</a>
 </p>
