@@ -1,78 +1,62 @@
-# Soy **Lautaro**, desarrollador web **Front-end** y **Back-end**
+<h1 style="text-align:center;">Alonso Diaz ruben Lautaro</h1>
+<p style="text-align:center; font-size: 14px">Argentina/Tucumán/San Miguel de Tucumán •
+<a href="mailto:alonsodiazrubenlautaro1431@gmail.com">alonsodiazrubenlautaro1431@gmail.com</a> •
+<a href="https://linkedin.com/in/ruben-lautaro-alonso-diaz">LinkedIn</a>
+</p>
 
+---
 
-### Lenguajes
+## Perfil Profecional
 
-+ **Front-end**
+<p style="font-size: 14px;">Busco mi primera oportunidad laboral en el ámbito de las páginas webs. Tengo experiencia en GIt para el control de versiones, GitHub + GitHub Actions para hacer test del código y desplegar a producción.</p>
 
-<img
-	alt=""
-	src="https://img.shields.io/badge/HTML-FFE4CC?style=for-the-badge&logo=HTML5"
-	style="border-radius: 4px"
-/>
-<img
-	alt=""
-	src="https://img.shields.io/badge/CSS-CCDEFF?style=for-the-badge&logo=CSS3&logoColor=blue"
-	style="border-radius: 4px"
-/>
-<img 
-	alt="Static Badge"
-	style="border-radius: 4px"
-	src="https://img.shields.io/badge/ReactJS-DAFFFE?style=for-the-badge&logo=React"
-/>
-<img
-	alt=""
-	src="https://img.shields.io/badge/JavaScript-FFFDE1?style=for-the-badge&logo=javaScript"
-	style="border-radius: 4px"
-/>
-<img
-	alt=""
-	src="https://img.shields.io/badge/astro-FDE1FF?style=for-the-badge&logo=astro"
-	style="border-radius: 4px"
-/>
-<img
-	alt=""
-	src="https://img.shields.io/badge/tailwind-CCEFFF?style=for-the-badge&logo=tailwindcss"
-	style="border-radius: 4px"
-/>
+## Educación
+<div style="font-size: 14px;">
+	<div style="display: flex; align-items: center; justify-content: space-between; margin: 0 0 20px 0;">
+		<span>Bachiller de informática - Secundaria</span>  Escuela Media Presidente Juan Domingo Peron
+	</div>
+</div>
 
-+ **Back-end**
+## Certificados
+<div style="font-size: 14px;">
+	<div style="display: flex; align-items: center; justify-content: space-between;">
+		<span>Desarrollador Full Stack</span>
+		<a href="https://www.aluracursos.com/">Alura Latam x Oracle</a>
+	</div>
+	<div style="display: flex; align-items: center; justify-content: space-between;">
+		<span>Desarrollador en React</span>
+		<a href="https://cursoreact.dev/">Curso React por Midudev</a>
+	</div>
+		<div style="display: flex; align-items: center; justify-content: space-between;">
+		<span>Curso de Docker</span>
+		<a href="https://codigofacilito.com/certificates/1e4665c0-e854-4e4a-bb72-457650605216">Curso Profesional de Docker - Código Facilito</a>
+	</div>
+		<div style="display: flex; align-items: center; justify-content: space-between;">
+		<span>Curso de GitHub Actions</span>
+		<a href="https://codigofacilito.com/certificates/a6f86f30-5d2c-407b-8deb-35c64b3fa1a2">Curso de GitHub Actions - Código Facilito</a>
+	</div>
+</div>
 
-<img 
-	alt="Static Badge"
-	style="border-radius: 4px"
-	src="https://img.shields.io/badge/NodeJs-E0FFDA?style=for-the-badge&logo=nodedotjs"
-/>
-<img 
-	alt="Static Badge"
-	style="border-radius: 4px"
-	src="https://img.shields.io/badge/Expressjs-E8E8E8?style=for-the-badge&logo=express&logoColor=000"
-/>
-<img 
-	alt="Static Badge"
-	style="border-radius: 4px"
-	src="https://img.shields.io/badge/nestjs-FFE1E1?style=for-the-badge&logo=nestjs&logoColor=FF0000"
-/>
+## Lenguajes, Framework, Library
 
+- HTML, CSS, JavaScript, React, Tailwind
+- NodeJS, ExpressJS, NestJS, REST API
+- GNU/Linux Debian, Arch-Linux, Docker, Docker Compose, Bash Script, PostgreSQL, SQLite
 
+## Proyectos
 
-### Utilidades
+1. [**CSV Viewer**](https://csv-viewer-eight.vercel.app/)
 
-<img 
-	alt="Static Badge"
-	style="border-radius: 4px"
-	src="https://img.shields.io/badge/Docker-CCDEEC?style=for-the-badge&logo=docker"
-/>
-<img
-	style="border-radius: 4px"
-	src="https://img.shields.io/badge/Linux-FFF6CD?style=for-the-badge&logo=linux&logoColor=000"
-/>
-<img 
-	alt="Static Badge"
-	style="border-radius: 4px"
-	src="https://img.shields.io/badge/BASH-D9FFD8?style=for-the-badge&logo=gnubash"
-/>
-<img
-	style="border-radius: 4px"
-	src="https://img.shields.io/badge/TypeScript-D8E0FF?style=for-the-badge&logo=typescript"
-/>
+Página web que muestra el contenido de los archivos .csv en una tabla
+
+**Tecnologías usadas**
+- HTML, CSS, JS, React, Tailwind, Shadcn
+
+---
+
+2. [**Acortador de URL**](https://short-url-clien.vercel.app/)
+
+Página para acortar las URLs/link muy largos, este cuenta con un servicio, una web y una base de datos donde se aloja las urls
+
+**Tecnologías usadas**
+- HTML, CSS, JS, NodeJS, Base de datos (SQLite)
