@@ -10,14 +10,7 @@
 
 <p style="font-size: 14px;">Busco mi primera oportunidad laboral en el ámbito de las páginas webs. Tengo experiencia en GIt para el control de versiones, GitHub + GitHub Actions para hacer test del código y desplegar a producción.</p>
 
-## Educación
-<div style="font-size: 14px;">
-	<div style="display: flex; align-items: center; justify-content: space-between; margin: 0 0 20px 0;">
-		<span>Bachiller de informática - Secundaria</span>  Escuela Media Presidente Juan Domingo Peron
-	</div>
-</div>
-
-## Certificados
+## Certificados/Curso
 <div style="font-size: 14px;">
 	<div style="display: flex; align-items: center; justify-content: space-between;">
 		<span>Desarrollador Full Stack</span>
